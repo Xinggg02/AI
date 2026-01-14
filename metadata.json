@@ -1,0 +1,5 @@
+{
+  "name": "Taiwan Home Energy Dashboard",
+  "description": "A comprehensive home electricity bill calculator and energy-saving diagnosis dashboard tailored for Taiwan's tiered pricing structure.",
+  "requestFramePermissions": []
+}
